@@ -24,3 +24,5 @@ console.log(19<=11);
 console.log(19==11);
 console.log(19!=19);
 console.log(numero2===numero3);
+
+

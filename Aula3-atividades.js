@@ -18,14 +18,6 @@ let pessoas = 4;
 
 console.log(refrigerante / pessoas);
 
-let nome = "Teste";
-let sobreNome = "Teste1";
-let peso = 80;
-
-console.log(nome + sobreNome); // Esse é igual 
-console.log("Gabriel " + sobreNome); // A este
-
-console.log("O meu peso é " + peso);
 
 // Mostre o seu nome e seu sobrenome
 // Mostre a cidade de onde você é
@@ -38,6 +30,11 @@ console.log("O número de carros é");
 console.log(carro * garagem); // Aqui vai dar 20
 
 console.log("A multiplicação do numero tal pelo tal é");
+
+let a = 5;
+let b = 5;
+
+console.log(a+b);
 
 // Eu quero a multiplicação, divisão, soma e subração
 
